@@ -1,11 +1,3 @@
-<div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <div align="right" style="width: 40%;">
-      <img src="https://avatars.githubusercontent.com/u/45564804" width="200" style="border-radius: 10%;" />
-    </div>
-  </div>
-</div>
-
 <div align="left">
 
 ```javascript
