@@ -1,28 +1,67 @@
-<br clear="both">
-
-<h2 align="left">Hi !  I'm nazDridoy...😊</h2>
-
-###
-
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/45564804"  />
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazdridoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazdridoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=nazdridoy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=nazdridoy&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <div align="right" style="width: 40%;">
+      <img src="https://avatars.githubusercontent.com/u/45564804" width="200" style="border-radius: 10%;" />
+    </div>
+  </div>
 </div>
-
-###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazdridoy&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+
+```javascript
+// The essential Human blueprint
+class Human {
+  constructor() {
+    this.species = "Homo Sapiens";
+    this.skills = ["breathing", "eating", "sleeping"];
+  }
+}
+
+// A Developer is just a Human with extra features
+class Developer extends Human {
+  constructor() {
+    super();
+    this.name = "nazDridoy";
+    this.mood = "😊";
+    this.skills.push("coding", "googling", "ctrl+c", "ctrl+v", "overthinking");
+  }
+  
+  greet() {
+    return `Hi ! I'm ${this.name}...${this.mood}`;
+  }
+}
+
+// Say hello!
+console.log(new Developer().greet());
+// Output: Hi ! I'm nazDridoy...😊
+```
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nazdridoy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" width="500" />
+</div>
 
-<img src="https://raw.githubusercontent.com/nazdridoy/nazdridoy/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=nazdridoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" width="500" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazdridoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" width="390" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=nazdridoy&theme=tokyonight&column=7&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazdridoy&radius=16&theme=tokyo-night&area=true&hide_border=false&height=300" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nazdridoy/nazdridoy/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
