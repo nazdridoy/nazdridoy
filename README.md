@@ -1,32 +1,32 @@
 <div align="left">
                                                                                                      
-```javascript                                                                                         
-// The essential Human blueprint                                                                      
-class Human {                                                                                         
-  constructor() {                                                                                     
-    this.species = "Homo Sapiens";                                                                    
-    this.skills = ["breathing", "eating", "sleeping"]; //                __            _              
-  }                                                    //             | /  \ |      _\(_)/_           
-}                                                      //            \_\\  //______/ /(o)\     \      
-                                                       //             .'/()\'.____/`- /'   @naz.ridoy 
-// A Developer is just a Human with extra features     //      idoy    \\`.//\ _ /` \ \\  ,,  /  /    
-class Developer extends Human {                        //   _\(o)/_    /  /`.,' `.,' '-.`\()/`.-'     
-  constructor() {                                      //    /(_)\    /__/__/ DevLife--_'(_ )'_--.    
-    super();                                           //          .  _.._  \     // /` /`""`\ `\ \   
-    this.name = "nazDridoy";                           // @nazdridoy '    '.'`._,'  |  |  ><  |  |    
-    this.mood = "😊";                                  //          /   __   \/___\,'\ /\      /  /    
-    this.skills.push("coding", "googling");            //       ,  |   ><   |__,__\,-'  '.__.'  ridoy 
-    this.skills.push("ctrl+c", "ctrl+v");              //      . \  \      /  / .  \         _\(o)/_  
-  }                                                    //       \_'--`(  )'--'_/       _      /(_)\   
-  greet() {                                            //         .--'/()\'--.      _\( )/_           
-    return `Hi ! I'm ${this.name}...${this.mood}`;     //        /  /` d' `\  \      /(O)\            
-  }                                                    //      _   @naz ridoy          @naz           
-}                                                      //   _\(_)/_ \      /                          
-                                                       //    /(O)\                                    
-// Say hello!                                          //                                             
-console.log(new Developer().greet());                                                                 
-// Output: Hi ! I'm nazDridoy...😊                                                                    
-```                                                                                                                                                                                                                                                                                                  
+ ```javascript                                                                                        
+ // The essential Human blueprint                                                                     
+ class Human {                                                                                        
+   constructor() {                                                                                    
+     this.species = "Homo Sapiens";                                                                   
+     this.skills = ["breathing", "eating", "sleeping"]; //                __            _             
+   }                                                    //             | /  \ |      _\(_)/_          
+ }                                                      //            \_\\  //______/ /(o)\           
+                                                        //             .'/()\'.____/`- /'     \       
+ // A Developer is just a Human with extra features     //      idoy    \\`.//\ _ /` \ \\  ,,  /  /   
+ class Developer extends Human {                        //   _\(o)/_    /  /`.,' `.,' '-.`\()/`.-'    
+   constructor() {                                      //    /(_)\    /__/__/ DevLife--_'(_ )'_--.   
+     super();                                           //          .  _.._  \     // /` /`""`\ `\ \  
+     this.name = "nazDridoy";                           //            '    '.'`._,'  |  |  ><  |  |   
+     this.mood = "😊";                                  //          /   __   \/___\,'\ /\      /  /   
+     this.skills.push("coding", "googling");            //       ,  |   ><   |__,__\,-'  '.__.'  ridoy
+     this.skills.push("ctrl+c", "ctrl+v");              //      . \  \      /  / .  \         _\(o)/_ 
+   }                                                    //       \_'--`(  )'--'_/       _      /(_)\  
+   greet() {                                            //         .--'/()\'--.      _\( )/_          
+     return `Hi ! I'm ${this.name}...${this.mood}`;     //        /  /` d' `\  \      /(O)\           
+   }                                                    //      _   @naz ridoy          @naz          
+ }                                                      //   _\(_)/_ \      /                         
+                                                        //    /(O)\                                   
+ // Say hello!                                          //                                            
+ console.log(new Developer().greet());                                                                
+ // Output: Hi ! I'm nazDridoy...😊                                                                   
+ ```                                                                                                                                                                                                
 </div>
 
 <div align="center">
