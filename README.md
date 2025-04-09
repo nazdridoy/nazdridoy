@@ -37,10 +37,10 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nazdridoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" width="500" />
+        <img src="https://nazdridoy-github-readme-stats.vercel.app/api?username=nazdridoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" width="500" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazdridoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" width="390" />
+        <img src="https://nazdridoy-github-readme-stats.vercel.app/api/top-langs?username=nazdridoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" width="390" />
       </td>
     </tr>
   </table>
