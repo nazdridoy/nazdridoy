@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=nazdridoy&theme=tokyonight&column=7&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false" width="100%" />
+  <img src="https://nazdridoy-github-profile-trophy.vercel.app/?username=nazdridoy&theme=tokyonight&column=7&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false" width="100%" />
 </div>
 
 <div align="center">
