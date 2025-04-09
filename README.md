@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nazdridoy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" width="500" />
+  <img src="https://nazdridoy-github-readme-streak-stats.vercel.app/?user=nazdridoy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" width="500" />
 </div>
 
 <div align="center">
