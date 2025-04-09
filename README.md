@@ -51,7 +51,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazdridoy&radius=16&theme=tokyo-night&area=true&hide_border=false&height=300" width="100%" />
+  <img src="https://nazdridoy-github-readme-activity-graph.vercel.app/graph?username=nazdridoy&radius=16&theme=tokyo-night&area=true&hide_border=false&height=300" width="100%" />
 </div>
 
 <div align="center">
