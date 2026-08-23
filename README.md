@@ -39,19 +39,14 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
-        <img src="https://nazdridoy-github-readme-stats.vercel.app/api?username=nazdridoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" width="500" />
+        <img src="https://github-stats-extended.vercel.app/api?username=nazdridoy&show_icons=true&include_all_commits=true&theme=github_dark" width="500" />
       </td>
       <td align="center">
-        <img src="https://nazdridoy-github-readme-stats.vercel.app/api/top-langs?username=nazdridoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" width="390" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nazdridoy&layout=compact&langs_count=6&theme=github_dark" width="390" />
       </td>
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <img src="https://nazdridoy-github-profile-trophy.vercel.app/?username=nazdridoy&theme=tokyonight&column=7&row=1&margin-w=15&margin-h=15&no-bg=false&no-frame=false" width="100%" />
-</div>
-
 <div align="center">
   <img src="https://nazdridoy-github-readme-activity-graph.vercel.app/graph?username=nazdridoy&radius=16&theme=tokyo-night&area=true&hide_border=false&height=300" width="100%" />
 </div>
